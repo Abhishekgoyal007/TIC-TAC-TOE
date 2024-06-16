@@ -10,6 +10,6 @@ Draw: If all cells are filled without a winner, the game ends in a draw.
 Running the Game
 To play the game, simply run the script in a Python environment:
 
-python tic_tac_toe.py
+python Tic Tac Toe.py
 
 Enjoy the game!
